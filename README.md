@@ -68,7 +68,7 @@ The sector is currently **moderately fragmented and rapidly consolidating** rath
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)*
+*Sorted by GitHub Stars_Count (Descending)*
 
 - **[elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)** [![Stars](https://img.shields.io/github/stars/elder-plinius/CL4R1T4S?style=social&color=white)](https://github.com/elder-plinius/CL4R1T4S/stargazers)  
   *Open-source AI transparency and adversarial prompt-security repository documenting extracted frontier model system prompts, agentic tool schemas, and guardrail architectures for alignment and safety audits.*
@@ -159,7 +159,7 @@ We welcome additions, updates, and improvements from the AI security community!
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b feature/add-new-tool`).
-3. 📝 **Add your entry** under the appropriate section following the existing table or list format (include valid star badges, links, and factual descriptions).
+3. 📝 **Add your entry** under the appropriate section following the existing table or list format (include valid Stars_Badges, links, and factual descriptions).
 4. 🚀 **Submit a Pull Request** with a concise summary of why the tool belongs in this index.
 
 ⭐ **Found this resource valuable? Don't forget to star the repo and share it with fellow AI engineers and security practitioners!**
@@ -187,3 +187,12 @@ If this curated AI security index saves you time or aids your security research,
 - This catalog is a **community-curated index** provided solely for defensive research, educational purposes, and engineering benchmarking.
 - Penetration testing, adversarial fuzzing, and prompt injection techniques should only be conducted against systems you own or have explicit authorization to audit.
 - Tools listed must be evaluated according to your organization's legal, compliance, and governance obligations (such as the EU AI Act, NIST AI RMF, and ISO/IEC 42001).
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-AI-Jailbreak-Testing-Prompt-Security&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-AI-Jailbreak-Testing-Prompt-Security_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-AI-Jailbreak-Testing-Prompt-Security_growth.svg">
+  </picture>
+</a>
