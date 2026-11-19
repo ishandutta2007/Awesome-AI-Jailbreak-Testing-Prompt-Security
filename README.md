@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Lakera Guard](https://lakera.ai)**  
-
-  Ultra-low-latency real-time AI security firewall protecting LLM applications and agents against prompt injections, jailbreaks, system-prompt leaks, and toxic content via API.
-
-
-
-- **[Mindgard](https://mindgard.ai)**  
-
-  Continuous automated AI red-teaming and security testing platform uncovering jailbreaks, evasion attacks, model inversion, and data poisoning across LLMs and multimodal systems.
-
-
-
-- **[Cisco AI Defense (formerly Robust Intelligence)](https://cisco.com)**  
-
-  Enterprise AI validation and runtime protection suite providing automated algorithmic red-teaming, jailbreak stress-testing, and real-time runtime guardrails.
-
-
-
-- **[Protect AI (Guardian & Layer)](https://protectai.com)**  
-
-  Enterprise AI security platform offering real-time prompt firewalling, ML supply-chain scanning, and continuous automated red-teaming for generative AI apps.
-
-
-
-- **[HiddenLayer](https://hiddenlayer.com)**  
-
-  Enterprise AI security platform delivering real-time adversarial attack detection, prompt injection monitoring, model scanning, and automated AI red-teaming.
-
-
-
-- **[Vigil AI (Promptfoo Enterprise)](https://promptfoo.dev)**  
-
-  Enterprise continuous AI red-teaming and vulnerability management platform automating OWASP Top 10 for LLMs testing, compliance reporting, and regression gating.
-
-
-
-- **[Patronus AI](https://patronus.ai)**  
-
-  Automated AI safety and evaluation platform featuring adversarial test generation, specialized hallucination/safety detection models, and enterprise policy benchmarking.
-
-
-
-- **[Arthur Shield (Arthur AI)](https://arthur.ai)**  
-
-  Real-time LLM firewall and observability suite providing prompt injection detection, PII/sensitive data filtering, hallucination scoring, and toxicity guardrails.
-
-
-
-- **[Fiddler AI (Fiddler Guardrails)](https://fiddler.ai)**  
-
-  Enterprise AI observability and governance platform offering sub-100ms jailbreak, safety, PII, and faithfulness guardrails alongside drift monitoring.
-
-
-
-- **[TrojAI](https://troj.ai)**  
-
-  Enterprise AI security platform specializing in automated red-teaming, adversarial robustness testing, and real-time firewall protection against prompt injection and data exfiltration.
+| Platform | Valuation / Size | Starting Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Cisco AI Defense](https://cisco.com)** *(formerly Robust Intelligence)* | **$375B+** *(Parent Market Cap; RI acquired for ~$400M)* | **$50,000/yr** *(AWS/Azure Marketplace private offer baseline; enterprise contract packages)* | **Free Explorer Edition** *(Self-serve access for developer scanning & red-teaming; 30-day guided enterprise PoC available)* | Enterprise AI validation and runtime protection suite providing automated algorithmic red-teaming, jailbreak stress-testing, and real-time runtime guardrails. |
+| **[Protect AI](https://protectai.com)** *(Guardian & Layer)* | **$260B+** *(Parent Market Cap; acquired by Palo Alto Networks for ~$700M)* | **$30,000/yr** *(AWS Marketplace annual enterprise license baseline; metered per scanning dimension)* | **14 to 30 days** *(Custom enterprise proof-of-concept/pilot via sales; free MLSecOps foundation tools)* | Enterprise AI security platform offering real-time prompt firewalling, ML supply-chain scanning, and continuous automated red-teaming for generative AI apps. |
+| **[Lakera Guard](https://lakera.ai)** | **$15B+** *(Parent Market Cap; acquired by Check Point for ~$300M)* | **$0.0015/request** *(or $250/mo starter; custom volume plans for enterprise)* | **Free forever: 10,000 requests/mo** *(Up to 8k tokens context/request, full API & dashboard access)* | Ultra-low-latency real-time AI security firewall protecting LLM applications and agents against prompt injections, jailbreaks, system-prompt leaks, and toxic content via API. |
+| **[TrojAI](https://troj.ai)** | **$2.1B** *(Parent Market Cap; acquired by A10 Networks for undisclosed valuation; raised $9.1M)* | **$1,500/mo** *(Annual subscription starting package via A10 Networks / Azure Marketplace)* | **30-day free trial** *(Full access to A10 Defend / TrojAI Detect & Defend evaluation environment upon request)* | Enterprise AI security platform specializing in automated red-teaming, adversarial robustness testing, and real-time firewall protection against prompt injection and data exfiltration. |
+| **[HiddenLayer](https://hiddenlayer.com)** | **$500M+** *(Valuation est.; $156M total funding raised including $100M Series B)* | **$500/mo** *(Baseline scanning tier; AWS Marketplace enterprise contracts up to $5M/yr)* | **14-day guided PoC** *(Enterprise pilot with model scanner community evaluation access)* | Enterprise AI security platform delivering real-time adversarial attack detection, prompt injection monitoring, model scanning, and automated AI red-teaming. |
+| **[Fiddler AI](https://fiddler.ai)** *(Fiddler Guardrails)* | **$400M** *(Acquisition valuation by CrowdStrike; $100M total venture funding raised)* | **$0.002/trace** *(Developer Tier pay-as-you-go; custom enterprise deployment plans)* | **Free forever: Unlimited Real-Time Guardrails** *(Centor Model safety/jailbreak/injection enforcement; traces excluded)* | Enterprise AI observability and governance platform offering sub-100ms jailbreak, safety, PII, and faithfulness guardrails alongside drift monitoring. |
+| **[Patronus AI](https://patronus.ai)** | **$250M+** *(Valuation est.; $70M total funding raised including $50M Series B)* | **$10 per 1,000 evaluator calls** *(Pay-as-you-go API; custom enterprise agreements)* | **Free forever: 2 projects & 5 experiments/project** *(Includes $10 free API credits, 2-week trace retention)* | Automated AI safety and evaluation platform featuring adversarial test generation, specialized hallucination/safety detection models, and enterprise policy benchmarking. |
+| **[Mindgard](https://mindgard.ai)** | **$120M+** *(Valuation est.; $42M total funding raised including $30M Series A)* | **$1,200/mo** *(Annual baseline contract; custom quotes based on models & agents tested)* | **Free forever: Mindgard AI Security Labs** *(Free community CLI & web sandbox for individual model red-teaming; 14-day enterprise PoC)* | Continuous automated AI red-teaming and security testing platform uncovering jailbreaks, evasion attacks, model inversion, and data poisoning across LLMs and multimodal systems. |
+| **[Vigil AI / Promptfoo Enterprise](https://promptfoo.dev)** | **$86M** *(Acquired by OpenAI in 2026; $23.6M funding raised prior to acquisition)* | **$500/mo** *(Team/Enterprise hosted dashboard; custom enterprise tier)* | **Free forever: 10,000 probes/mo** *(Open-source CLI is 100% free; includes community evaluation engine & vulnerability scanner)* | Enterprise continuous AI red-teaming and vulnerability management platform automating OWASP Top 10 for LLMs testing, compliance reporting, and regression gating. |
+| **[Arthur Shield](https://arthur.ai)** *(Arthur AI)* | **$45M – $168M** *(Valuation range; $42M Series B funding; est. $8M+ ARR)* | **$60/mo** *(Premium Tier; covers up to 100 use cases & 30-day retention; custom enterprise)* | **Free forever: Up to 4 use cases** *(Core LLM firewall/observability metrics, unlimited seats, 7-day retention)* | Real-time LLM firewall and observability suite providing prompt injection detection, PII/sensitive data filtering, hallucination scoring, and toxicity guardrails. |
 
 
 
